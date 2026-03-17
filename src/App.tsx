@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-    <div className='my-header'>Hello World</div>
+    <div className='my-header'>Hello World!</div>
       {/* <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
